@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95ba7651.chunk.css",
+    "main.js": "/static/js/main.ccfad7bb.chunk.js",
+    "main.js.map": "/static/js/main.ccfad7bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7438d2ef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7438d2ef.js.map",
+    "static/js/2.48507412.chunk.js": "/static/js/2.48507412.chunk.js",
+    "static/js/2.48507412.chunk.js.map": "/static/js/2.48507412.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e2aca46b3ca9bc7a54715cf925fb0e45.js": "/precache-manifest.e2aca46b3ca9bc7a54715cf925fb0e45.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.95ba7651.chunk.css.map": "/static/css/main.95ba7651.chunk.css.map",
+    "static/js/2.48507412.chunk.js.LICENSE": "/static/js/2.48507412.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/lightning.e2b80abc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7438d2ef.js",
+    "static/js/2.48507412.chunk.js",
+    "static/css/main.95ba7651.chunk.css",
+    "static/js/main.ccfad7bb.chunk.js"
+  ]
+}
